@@ -24,3 +24,5 @@ Before running the app, ensure you have the following installed:
     *   *Mac/Linux:* Install via terminal (`brew install ffmpeg` or `sudo apt install ffmpeg`).
 
 ---
+⚠️ Disclaimer
+This tool is for educational purposes and personal use only. Please respect YouTube's Terms of Service and copyright laws. Do not use this tool to distribute copyrighted content without permission
